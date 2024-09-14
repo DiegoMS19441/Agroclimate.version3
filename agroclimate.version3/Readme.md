@@ -26,13 +26,19 @@ insumos em plantações improdutivas.
 
 # Adicionado: 
 1- Relacionamento entre entidades;
+
 2- Validação com JWT;
+
 3- Swagger
+
 4- Adicionamos o (strategy = GenerationType.SEQUENCE) como forma de facilitar testes de requisição.
+
 5- Actuator
 
 # Informações
 
 1 - Neste código o agricultor/usuário já é cadastrado ao fazer o registro (authController)
+
 2 - A senha de acesso está registrada em aplication.properties
+
 3 - Utilize http://localhost:8080/swagger-ui/index.html# para visualizar a organização com Swagger
