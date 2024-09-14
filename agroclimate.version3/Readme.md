@@ -23,7 +23,6 @@ climático, tipo de solo etc., dessa foram o agricultor poderá maximizar seus l
 saber quais alimentos podem ser plantados em determinadas épocas do ano e não gastará
 insumos em plantações improdutivas.
 
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 # Adicionado: 
 1- Relacionamento entre entidades;
