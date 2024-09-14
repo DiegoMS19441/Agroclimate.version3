@@ -31,7 +31,8 @@ insumos em plantações improdutivas.
 
 3- Swagger
 
-4- Adicionamos o (strategy = GenerationType.SEQUENCE) como forma de facilitar testes de requisição.
+4- Adicionamos o (strategy = GenerationType.SEQUENCE) como forma de facilitar testes de requisição, dessa forma os IDs
+serão gerados de maneira sequencial.
 
 5- Actuator
 
