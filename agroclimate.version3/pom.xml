@@ -106,11 +106,6 @@
 					</excludes>
 				</configuration>
 			</plugin>
-			<plugin>
-				<groupId>com.microsoft.azure</groupId>
-				<artifactId>azure-webapp-maven-plugin</artifactId>
-				<version>2.6.0</version>
-			</plugin>
 		</plugins>
 	</build>
 	<packaging>jar</packaging>
