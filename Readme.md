@@ -43,4 +43,4 @@ insumos em plantações improdutivas.
 
 3 - Utilize http://localhost:8080/swagger-ui/index.html# para visualizar a organização com Swagger
 
-4 - json de requisições está presente no repositório para ser importado no insomnia.
+4 - json de requisições está no arquivo zipado entregue no portal do aluno e pode ser importado no insomnia.
