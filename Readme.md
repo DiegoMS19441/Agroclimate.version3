@@ -38,5 +38,9 @@ insumos em plantações improdutivas.
 # Informações
 
 1 - Neste código o agricultor/usuário já é cadastrado ao fazer o registro (authController)
+
 2 - A senha de acesso está registrada em aplication.properties
+
 3 - Utilize http://localhost:8080/swagger-ui/index.html# para visualizar a organização com Swagger
+
+4 - json de requisições está presente no repositório para ser importado no insomnia.
